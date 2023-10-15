@@ -1,0 +1,60 @@
+body {
+   width: 1000px;
+   text-align: center;
+    background-image: url(background.jpg)
+
+    
+}
+
+.container {
+    rgba(0, 0, 0, 0.7)
+    width: 1000px;
+    margin: auto;
+}
+
+.logo {
+    
+    width:200px;
+    margin: auto;
+}
+
+.titolo {
+    color: lightgreen;
+}
+
+.container2 {
+   width: 800px;
+    background-color: lightgreen;
+}
+
+.container3 {
+    margin: 0px;
+    top:20px;
+    left: 50px;
+    width: 450px;
+    color: white;
+}
+
+.utenti {
+    color: white;
+}
+
+.container4 {
+    width: 400px;
+    color: orange;
+    background-color: orange;
+}
+
+
+.container5 {
+    width: 700px;
+    color: green;
+    background-color: green;
+}
+
+
+.containerx {
+    width: 200px;
+    color: red;
+    background-color: red;
+}
